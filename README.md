@@ -13,5 +13,5 @@ It takes the following positional arguments:
 * file_name :name of the file to be generated
 * file_path :path to store the file
 * pwd_amount: amount of passwords to be generated
-* ending_lengt: full lenght of the password.
+* ending_length: full lenght of the password.
 
